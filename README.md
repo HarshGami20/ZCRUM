@@ -1,5 +1,7 @@
 # Full Stack ZCRUN with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, Shadcn UI 🔥🔥
 
+Live on:https://zcrum-mu.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
 
 ### `.env` file with following variables -
